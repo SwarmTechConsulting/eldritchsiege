@@ -1,0 +1,6 @@
+fps arms (rigged only)
+Author: para
+Mesh/texture derived from MakeHuman; cleaned, re-UV'd and rigged by para.
+License: CC0 1.0 Universal (public domain dedication)
+Source: https://opengameart.org/content/fps-arms-rigged-only
+No attribution required. Credit is appreciated: "fps arms" by para, based on MakeHuman (CC0).

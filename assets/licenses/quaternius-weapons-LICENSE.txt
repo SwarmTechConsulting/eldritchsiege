@@ -1,0 +1,8 @@
+Modular / Medieval Weapons Pack
+Author: Quaternius
+License: CC0 1.0 Universal (public domain dedication)
+Source: https://quaternius.com/packs/medievalweapons.html
+Mirror used: https://github.com/trebeljahr/quaternius-showcase (public/glb/medieval_weapons_pack)
+Staff also from poly.pizza "Staff" by Quaternius: https://poly.pizza/m/PnGRvO4Lwd
+No attribution required. Credit is appreciated: Weapons by Quaternius (CC0).
+These models use material base-color factors (no image textures).

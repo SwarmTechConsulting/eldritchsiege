@@ -1,0 +1,7 @@
+Evil Wizard
+Author: AliceCassie
+License: CC0 1.0 Universal (public domain dedication)
+Source: https://poly.pizza/m/bdxawstqtq
+Direct GLB: https://static.poly.pizza/1d4ce672-62b4-43f6-a07c-3150195a210f.glb
+No attribution required. Credit is appreciated: "Evil Wizard" by AliceCassie (CC0).
+Note: Untextured (flat material colors), not rigged, no animation clips. T-pose / A-pose only.
